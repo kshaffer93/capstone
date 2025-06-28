@@ -35,7 +35,7 @@ Python, Excel, PowerBI
 ## File Appendix
 **All data is for the year 2023**
 
-*capstone_VA_star_ratings*: Patient Survey Results, by facility
-*capstone_civilian_star_ratings*: Patient survey results, civilian hospitals only
-*capstone_VA_HCfacilities*: VA facilties list, with Facility_ID primary key
-*capstone_VetPop2023_Race_Ethnicity_State_NCVAS*: Veteran race population by state
+*capstone_VA_star_ratings*: Patient Survey Results, by facility\
+*capstone_civilian_star_ratings*: Patient survey results, civilian hospitals only\
+*capstone_VA_HCfacilities*: VA facilties list, with Facility_ID primary key\
+*capstone_VetPop2023_Race_Ethnicity_State_NCVAS*: Veteran race population by state\
