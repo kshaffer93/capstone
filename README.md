@@ -2,7 +2,8 @@
 # Veterans Acute Care Facility Performance
 
 This capstone explores the perfomance of VA Acute Care Facilities in comparison to civilian hospitals in the US in terms on performance. Performance here is decided by Patient Satisfaction Survey ratings, Readmission rates, and facility area density.\
-Through data exploration and visualization, the conclusion made is that VA facilities perform better than civilian facilities in terms of patient ratings. Readmission rates are about the same as the national average. Interestingly, the Southern area of the US tends to rate lower overall compared to the rest of the VA facilities in other regions. This may be due to less VA facility density in the area, and increase in demand due to population increase. \
+\
+Through data exploration and visualization, the conclusion made is that VA facilities perform better than civilian facilities in terms of patient ratings. Readmission rates are about the same as the national average. Interestingly, the Southern area of the US tends to rate lower overall compared to the rest of the VA facilities in other regions. This may be due to less VA facility density in the area, and increase in demand due to population increase. 
 
 
 ## Created by: Kelli Shaffer
