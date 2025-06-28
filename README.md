@@ -72,7 +72,7 @@ Through data exploration and visualization, the conclusion made is that VA facil
 
 ## Dashboard
 
-https://app.powerbi.com/groups/me/reports/763271e6-4246-4d4d-835c-87327984a8a9/ddb504441cf072fb9c4d?experience=power-bi
+https://app.powerbi.com/view?r=eyJrIjoiMTI2YzcwMGEtMDI3OC00ODk3LTk2NzEtYTkyMDYxYWIwMzVlIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9
 
 ---
 
