@@ -38,6 +38,7 @@ VA facilities exist as a service connected option for veterans to seek healthcar
 *capstone_agesex*: Veteran and Civilian population data by Age Range\
 *capstone_civilian_star_ratings*: Patient survey results, civilian hospitals only\
 *capstone_combined_scores*: Facility info including Facility_ID, with composite complications and deaths score, and readmission rating\
+*capstone_Complications_and_Deaths-Hospital*: Complications and Deaths ratings by facility\
 *capstone_readmission_comparison*: Facility_ID, lat, lng, State, Region and Readmission Ratings\
 *capstone_state_region_count*: Number of facilities by state, with ratio of facilities to patient by state\
 *capstone_VA_HCfacilities*: VA facilties list, with Facility_ID primary key\
