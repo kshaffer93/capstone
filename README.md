@@ -40,14 +40,14 @@ VA facilities exist as a service connected option for veterans to seek healthcar
 *capstone_combined_scores*: Facility info including Facility_ID, with composite complications and deaths score, and readmission rating\
 *capstone_Complications_and_Deaths-Hospital*: Complications and Deaths ratings by facility\
 *capstone_composite_compdeath*: Composite complications and deaths score by facility\
+*capstone_patient_summary_star_rating_avg*: Composite patient survey scores\
 *capstone_pt_survey*: Patient survey results\
 *capstone_readmission_comparison*: Facility_ID, lat, lng, State, Region and Readmission Ratings\
 *capstone_state_region_count*: Number of facilities by state, with ratio of facilities to patient by state\
 *capstone_unplanned_visits*: Unplaneed visits and Readmission rates compared to National Average\
 *capstone_VA_HCfacilities*: VA facilties list, with Facility_ID primary key\
 *capstone_VA_star_ratings*: Patient Survey Results, by facility\
-*capstone_VetPop2023_Race_Ethnicity_State_NCVAS*: Veteran race population by state\
-*capstone-patient-summary_star_rating_avg*: Composite patient survey scores
+*capstone_VetPop2023_Race_Ethnicity_State_NCVAS*: Veteran race population by state
 
 
 ---
