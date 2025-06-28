@@ -1,40 +1,38 @@
+# Data Analytics Capstone Project
 
-# Veterans Acute Care Facility Performance
+> _A comprehensive data analysis project conducted as part of a Data Analytics Bootcamp._
 
-This capstone explores the perfomance of VA Acute Care Facilities in comparison to civilian hospitals in the US in terms on performance. Performance here is decided by Patient Satisfaction Survey ratings, Readmission rates, and facility area density.\
-\
-Through data exploration and visualization, the conclusion made is that VA facilities perform better than civilian facilities in terms of patient ratings. Readmission rates are about the same as the national average. Interestingly, the Southern area of the US tends to rate lower overall compared to the rest of the VA facilities in other regions. This may be due to less VA facility density in the area, and increase in demand due to population increase. 
+## Veterans Acute Care Facility Performance
+_This capstone explores the perfomance of VA Acute Care Facilities in comparison to civilian hospitals in the US in terms on performance. Performance here is decided by Patient Satisfaction Survey ratings, Readmission rates, and facility area density._
 
+---
 
-## Created by: Kelli Shaffer
+## Table of Contents
 
-- [GitHub](https://www.github.com/kshaffer93)
+- [Project Overview](#project-overview)
+- [Datasets Used](#datasets-used)
+- [Methodology](#methodology)
+- [Tools and Technologies](#tools-and-technologies)
+- [Key Findings](#key-findings)
+- [Dashboard](#dashboard)
+- [How to Run](#how-to-run)
+- [Project Structure](#project-structure)
+- [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
 
-- [LinkedIn](https://www.linkedin.com/in/kellishaffer/)
+---
 
+## Project Overview
 
-## Tech Stack
+VA facilities exist as a service connected option for veterans to seek healthcare services. This is commonly a first option for many veterans who have VA benefits. I was curious to see how these facilities compare to the rest of the nation's healthcare facilities. 
+- Are veterans more or less satisfied with their healthcare experience compared to the national average?
+- How effective are the VA facilities at preventing readmission or complications compared to the national average?
+- Are there regions of the country which lack VA facilities in the face of demand? 
 
-Python, Excel, PowerBI
+---
 
+## Datasets Used
 
-
-
-## Sources
-
-[VHA Hospital List](https://data.cms.gov/provider-data/dataset/uyx4-5s7f)
-
-[Patient Survey](https://data.cms.gov/provider-data/dataset/dgck-syfz/)
-
-[Unplanned Hospital Visits](https://data.cms.gov/provider-data/dataset/632h-zaca)
-
-[Veteran Population](https://www.va.gov/vetdata/veteran_population.asp)
-
-[2023 General Population figures](https://www.census.gov/topics/population/age-and-sex/data/tables.html?text-list-2dfe1f367b%3Atab=2023)
-
-
-
-## File Appendix
 **All data is for the year 2023**
 
 *capstone_agesex*: Veteran and Civilian population data by Age Range\
@@ -45,3 +43,72 @@ Python, Excel, PowerBI
 *capstone_VA_HCfacilities*: VA facilties list, with Facility_ID primary key\
 *capstone_VA_star_ratings*: Patient Survey Results, by facility\
 *capstone_VetPop2023_Race_Ethnicity_State_NCVAS*: Veteran race population by state
+
+
+---
+
+## Methodology
+
+1. Data cleaning
+2. Exploratory data analysis
+3. Visualization and interpretation
+4. Conclusion
+
+---
+
+## Tools and Technologies
+
+- Python 
+- Pandas, NumPy, Matplotlib, Seaborn
+- Jupyter Notebooks, Power BI, Excel 
+
+---
+
+## Key Findings
+
+Through data exploration and visualization, the conclusion made is that VA facilities perform better than civilian facilities in terms of patient ratings. Readmission rates are about the same as the national average. Interestingly, the Southern area of the US tends to rate lower overall compared to the rest of the VA facilities in other regions. This may be due to less VA facility density in the area, and increase in demand due to population increase.
+
+---
+
+## Dashboard
+
+https://app.powerbi.com/groups/me/reports/763271e6-4246-4d4d-835c-87327984a8a9/ddb504441cf072fb9c4d?experience=power-bi
+
+---
+
+## 🚀 How to Run
+
+```bash
+git clone https://github.com/kshaffer93/capstone.git
+pip install -r requirements.txt
+jupyter notebook facilities_list.ipynb
+```
+
+---
+
+## 📁 Project Structure
+
+```
+📦capstone
+ ┣ 📂data
+ ┣ 📂notebooks
+ ┣ 📂slides
+ ┣ requirements.txt
+ ┗ README.md
+```
+
+---
+
+## Acknowledgements
+
+Sources obtained from data.CMS.gov, VA.gov, and census.gov
+
+Thank you to my NSS instructors and cohort mates for support and feedback
+
+---
+
+## 📬 Contact
+
+Kelli Shaffer  
+[LinkedIn](https://www.linkedin.com/in/kellishaffer/)  
+Email: KLShaffer93@gmail.com
