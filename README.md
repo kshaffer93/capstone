@@ -75,17 +75,6 @@ Through data exploration and visualization, the conclusion made is that VA facil
 Note: This Dashboard has 3 pages, toggled at the bottom of the page. The third page is interactive, visualizations change by clicking on the Region Tiles\
 [PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTI2YzcwMGEtMDI3OC00ODk3LTk2NzEtYTkyMDYxYWIwMzVlIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9)
 
-
----
-
-## 🚀 How to Run
-
-```bash
-git clone https://github.com/kshaffer93/capstone.git
-pip install -r requirements.txt
-jupyter notebook facilities_list.ipynb
-```
-
 ---
 
 ## 📁 Project Structure
